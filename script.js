@@ -1,4 +1,4 @@
-import bowyerWatson from "./node_modules/delaunay.js/bowyer-watson.js";
+import bowyerWatson from "./node_modules/delaunay.js";
 import Triangle from "./node_modules/delaunay.js/triangle.js";
 import Vector from "./node_modules/vectory-lib";
 
