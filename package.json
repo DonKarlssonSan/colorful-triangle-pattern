@@ -1,0 +1,34 @@
+{
+  "name": "colorful-triangle-pattern",
+  "version": "1.0.0",
+  "description": "Colorful Triangle Pattern Generator",
+  "keywords": [
+    "triangles",
+    "pattern",
+    "delaunay",
+    "triangulation",
+    "bowyer-watson"
+  ],
+  "homepage": "https://github.com/DonKarlssonSan/colorful-triangle-pattern#readme",
+  "bugs": {
+    "url": "https://github.com/DonKarlssonSan/colorful-triangle-pattern/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DonKarlssonSan/colorful-triangle-pattern.git"
+  },
+  "license": "MIT",
+  "author": "Johan Karlsson (DonKarlssonSan)",
+  "type": "module",
+  "source": "index.html",
+  "dependencies": {
+    "delaunay.js": "^1.0.3"
+  },
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  }
+}
