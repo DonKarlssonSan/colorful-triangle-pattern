@@ -1,5 +1,4 @@
-import bowyerWatson from "delaunay.js";
-import Triangle from "delaunay.js/triangle.js";
+import { bowyerWatson, Triangle } from "delaunay.js";
 import Vector from "vectory-lib";
 
 let canvas;
